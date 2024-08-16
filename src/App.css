@@ -1,0 +1,110 @@
+
+nav a
+{
+  margin: 0 3%;
+  text-decoration: none;
+  color: #335f30;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+}
+
+img
+{
+  width: 200px;
+  height: 40%;
+}
+
+#content3
+{
+  cursor: pointer;
+
+}
+
+#content3 p
+{
+  padding-top: 60.7%;
+  padding-left: 5.8%;
+  font-size: 24px;
+  color: white;
+  
+}
+
+#stack a
+{
+  text-decoration: none;
+  font-weight: 400 !important;
+  color: #444 !important;
+}
+
+#stack a:hover
+{
+  text-decoration: underline;
+  text-underline-offset: 5.8px;
+}
+
+
+
+#content4 a:hover
+{
+  text-decoration: underline !important;
+  text-decoration-thickness: 2.5px !important;
+  text-underline-offset: 5.8px;
+  
+}
+
+
+.nav
+{
+  background-color: #f7b615;
+  border-top: 2px solid grey;
+}
+
+#stack a
+{
+  color: maroon;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+
+}
+
+
+@media screen and (max-width: 380px) 
+{
+  
+  /* #content3
+  {
+     width: 20rem;
+     height: 13rem;
+     margin: auto;
+  } */
+
+
+  #content4_1
+  {
+    background-size: 14.7rem 11.5rem;
+    background-position: center center;
+    margin: auto;
+    background-clip: content-box;
+  }
+
+
+
+
+  #carousel h2
+  {
+    font-size: 16.15px;
+    margin-top: 40px;
+  }
+
+}
+
+@media screen and (max-width: 375px) 
+{
+    #navToggle
+    {
+      margin: 15px 0 15px 28px;
+    }
+
+}
